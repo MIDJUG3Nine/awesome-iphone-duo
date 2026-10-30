@@ -43,7 +43,6 @@ The iPhone Duo simulator in Xcode's Device Hub has Closed, Partially Open and Op
 ## Example apps and demos
 
 - [iPhone-Duo-by-Examples](https://github.com/artemnovichkov/iPhone-Duo-by-Examples) - One runnable SwiftUI example per new API, plus links to the author's hinge-driven toy apps.
-- [IphoneDuo](https://github.com/Codelaby/IphoneDuo) - Gallery of SwiftUI examples for hinge, reserved regions, `ArrangementView` and vertical toolbars, with videos. The code is in the author's Patreon posts, not in the repo.
 - [duo-demo](https://github.com/pvinis/duo-demo) - Tiny SwiftUI demo of outer/inner display detection, hinge, crease and two windows talking to each other.
 - [Answer Book](https://github.com/MIDJUG3Nine/AnswerBook_iDUO) - Close the phone and it is a book; open it on a random page with an answer. Built on HingeKit.
 - [DuoAngle](https://github.com/hutianchi123/DuoAngle) - Hinge angle meter with target angles and haptic alerts, also on the App Store.
