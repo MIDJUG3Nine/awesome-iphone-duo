@@ -68,6 +68,16 @@ Xcode Device Hub 里的 iPhone Duo 模拟器在机身下方有 Closed、Partiall
 
 - [iphone-duo-skills](https://github.com/mirzaaghazadeh/iphone-duo-skills) - 一组 agent skill，涵盖 iPhone Duo 上的自适应布局、竖向工具栏、铰链与场景、相机以及设计审查。
 
+## Star 趋势
+
+<a href="https://www.star-history.com/#MIDJUG3Nine/awesome-iphone-duo&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=midjug3nine%2fawesome-iphone-duo&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=midjug3nine%2fawesome-iphone-duo&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=midjug3nine%2fawesome-iphone-duo&type=Date" />
+  </picture>
+</a>
+
 ## 许可
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
