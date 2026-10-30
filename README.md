@@ -68,6 +68,16 @@ The iPhone Duo simulator in Xcode's Device Hub has Closed, Partially Open and Op
 
 - [iphone-duo-skills](https://github.com/mirzaaghazadeh/iphone-duo-skills) - Agent skills for adaptive layout, vertical bars, hinge and scenes, camera and design review on iPhone Duo.
 
+## Star History
+
+<a href="https://www.star-history.com/#MIDJUG3Nine/awesome-iphone-duo&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=midjug3nine%2fawesome-iphone-duo&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=midjug3nine%2fawesome-iphone-duo&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=midjug3nine%2fawesome-iphone-duo&type=Date" />
+  </picture>
+</a>
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
