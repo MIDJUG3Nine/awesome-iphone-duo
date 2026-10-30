@@ -1,8 +1,10 @@
 # Awesome iPhone Duo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+English | [简体中文](README.zh-CN.md)
+
 A curated list of resources for building apps for the iPhone Duo, Apple's first foldable iPhone.
 
-The iPhone Duo folds like a passport: a 5.4" outer display when closed and a 7.6" inner display when open, with a hinge that apps can read from iOS 27.1. This list collects the APIs, libraries, examples and articles that help you design for it.
+The iPhone Duo folds like a passport: a 5.4" outer display when closed and a 7.6" inner display when open, with a hinge that apps can read from iOS 27.1. Apple announced it in September 2026 and it went on sale on 2026-10-23. This list collects what developers have built for it since: libraries, example apps, cross-platform plugins and articles, plus a quick map of the new APIs.
 
 Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
@@ -73,3 +75,5 @@ The iPhone Duo simulator in Xcode's Device Hub has Closed, Partially Open and Op
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
 
 iPhone is a trademark of Apple Inc. This list is not affiliated with Apple.
+
+Links last checked: 2026-10-30.
