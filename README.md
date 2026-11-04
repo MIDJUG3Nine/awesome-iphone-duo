@@ -27,12 +27,12 @@ Contributions are welcome. Please read the [contribution guidelines](CONTRIBUTIN
 
 All of these are new in iOS 27.1.
 
-| What you need | SwiftUI | UIKit |
-| --- | --- | --- |
-| Hinge status and angle | `onHingeChange(isEnabled:_:)`, `DeviceHinge` (`status`, `angle`) | `UIHingeInteraction`, `UIHinge` (`status`, `angle` in radians) |
-| Crease and camera cut-outs | `GeometryProxy.reservedRegions(kind:)` with `.division` / `.occlusion` | `UIView.reservedRegions(kind:)` |
-| Two views side by side or layered | `ArrangementView` with `.split` / `.overlay` styles | `UIArrangementViewController` with `UISplitArrangement` / `UIOverlayArrangement` |
-| Toolbars on the side | `toolbarVerticalEdge`, `toolbarVerticalBehavior(_:)` | `UITraitCollection.verticalBarEdge` |
+| What you need                     | SwiftUI                                                                | UIKit                                                                            |
+| --------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Hinge status and angle            | `onHingeChange(isEnabled:_:)`, `DeviceHinge` (`status`, `angle`)       | `UIHingeInteraction`, `UIHinge` (`status`, `angle` in radians)                   |
+| Crease and camera cut-outs        | `GeometryProxy.reservedRegions(kind:)` with `.division` / `.occlusion` | `UIView.reservedRegions(kind:)`                                                  |
+| Two views side by side or layered | `ArrangementView` with `.split` / `.overlay` styles                    | `UIArrangementViewController` with `UISplitArrangement` / `UIOverlayArrangement` |
+| Toolbars on the side              | `toolbarVerticalEdge`, `toolbarVerticalBehavior(_:)`                   | `UITraitCollection.verticalBarEdge`                                              |
 
 The iPhone Duo simulator in Xcode's Device Hub has Closed, Partially Open and Open buttons below the bezel; hold Option and drag the slider there to fold to any angle. The tools below add fold controls to Previews and other simulators.
 
@@ -47,7 +47,7 @@ The iPhone Duo simulator in Xcode's Device Hub has Closed, Partially Open and Op
 - [iPhone-Duo-by-Examples](https://github.com/artemnovichkov/iPhone-Duo-by-Examples) - One runnable SwiftUI example per new API, plus links to the author's hinge-driven toy apps.
 - [duo-demo](https://github.com/pvinis/duo-demo) - Tiny SwiftUI demo of outer/inner display detection, hinge, crease and two windows talking to each other.
 - [Answer Book](https://github.com/MIDJUG3Nine/AnswerBook_iDUO) - Close the phone and it is a book; open it on a random page with an answer. Built on HingeKit.
-- [DuoAngle](https://github.com/hutianchi123/DuoAngle) - Hinge angle meter with target angles and haptic alerts, also on the App Store.
+- [DuoAngle](https://github.com/hutianchi123/DuoAngle) - Hinge angle meter with target angles and haptic alerts.
 - [iPhoneDuoDemo](https://github.com/jboylabo/iPhoneDuoDemo) - Small hinge-status demo with notes (in Japanese) on the hinge slider in Device Hub.
 - [anytime: iPhone Duo layout support](https://github.com/hewigovens/anytime/pull/10) - A real-world pull request adapting an existing app, with screenshots.
 
@@ -78,12 +78,10 @@ The iPhone Duo simulator in Xcode's Device Hub has Closed, Partially Open and Op
   </picture>
 </a>
 
-## License
+---
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+This list is released under [CC0 1.0](LICENSE): the contributors have waived all copyright and related rights to it.
 
 iPhone is a trademark of Apple Inc. This list is not affiliated with Apple.
 
-Links last checked: 2026-10-30.
+Links last checked: 2026-11-04.
