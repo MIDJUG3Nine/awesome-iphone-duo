@@ -47,7 +47,7 @@ Xcode Device Hub 里的 iPhone Duo 模拟器在机身下方有 Closed、Partiall
 - [iPhone-Duo-by-Examples](https://github.com/artemnovichkov/iPhone-Duo-by-Examples) - 每个新 API 一个可运行的 SwiftUI 示例，还链接了作者用铰链驱动的几个小玩具 App。
 - [duo-demo](https://github.com/pvinis/duo-demo) - 很小的 SwiftUI 演示：识别内外屏、读取铰链和折痕，以及两个窗口之间互相通信。
 - [Answer Book](https://github.com/MIDJUG3Nine/AnswerBook_iDUO) - 合上手机是一本书，打开就随机翻到写着答案的一页。基于 HingeKit。
-- [DuoAngle](https://github.com/hutianchi123/DuoAngle) - 铰链角度计，可设目标角度并用触感提醒，App Store 上也能下载。
+- [DuoAngle](https://github.com/hutianchi123/DuoAngle) - 铰链角度计，可设目标角度并用触感提醒。
 - [iPhoneDuoDemo](https://github.com/jboylabo/iPhoneDuoDemo) - 小型铰链状态演示，附有关于 Device Hub 铰链滑块的说明（日文）。
 - [anytime: iPhone Duo layout support](https://github.com/hewigovens/anytime/pull/10) - 一个现有 App 适配 iPhone Duo 的真实 PR，带截图。
 
@@ -78,12 +78,10 @@ Xcode Device Hub 里的 iPhone Duo 模拟器在机身下方有 Closed、Partiall
   </picture>
 </a>
 
-## 许可
+---
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内，贡献者已放弃本作品的全部版权及相关权利。
+本清单以 [CC0 1.0](LICENSE) 发布：贡献者已放弃它的全部版权及相关权利。
 
 iPhone 是 Apple Inc. 的商标。本清单与 Apple 无关。
 
-链接最后检查日期：2026-10-30。
+链接最后检查日期：2026-11-04。
